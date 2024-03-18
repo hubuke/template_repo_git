@@ -9,3 +9,5 @@ print("hello world again")
 # comment to demo merge fail
 
 # comment to demo rebase new branch
+
+# comment to demo rebase fail
